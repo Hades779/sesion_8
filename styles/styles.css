@@ -1,0 +1,44 @@
+
+body{
+    background-color: #000000;
+}
+.bg-color{
+    background-color: #d46666;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+}
+.center1{
+    justify-content: center;
+   display: flex;
+}
+.bienvenida{
+    color: #f2eeee;
+    font-family: 'Carter One', cursive;
+}
+.presentado{
+    color: #f5f5f5;
+    font-family: 'Carter One', cursive;
+}
+.parrafo{
+    color: #bb5c5c;
+    font-family: 'Carter One', cursive;
+}
+.text-boton{
+    background-color: #f1f3f8;
+    color: #12d78c;
+    font-family: 'Koulen', cursive;
+}
+.text-boton:hover{
+    background-color: #2f00ff;
+    color: #547ff5;
+    font-style: italic;
+    font-family: 'Koulen', cursive;
+}
+.sesion{
+    color: #9f6d6d;
+}
+a{
+    color: rgb(92, 88, 88);
+}
